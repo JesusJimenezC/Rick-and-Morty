@@ -1,7 +1,7 @@
 import "./Status.css";
 
 interface StatusProps {
-  status: "Alive" | "Dead";
+  status: "Alive" | "Dead" | "unknown";
 }
 
 const Status = (props: StatusProps) => {
