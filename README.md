@@ -17,6 +17,10 @@ pnpm dev
 pnpm build
 ```
 
-### [Project Demo](https://rick-and-morty-context.netlify.app/)
-
 ![Project gif example](https://github.com/JesusJimenezC/ImagesExampleProjects/blob/master/Rick_and_Morty.gif?raw=true)
+
+## Contact
+
+Jesus Jimenez Cordero - [jesus.jimenez.mx@proton.me](mailto:jesus.jimenez.mx@proton.me)
+
+Project link: [Rick&Morty - Demo]([https://astro-blog-tan-nine.vercel.app/](https://rick-and-morty-context.netlify.app/))
