@@ -23,4 +23,4 @@ pnpm build
 
 Jesus Jimenez Cordero - [jesus.jimenez.mx@proton.me](mailto:jesus.jimenez.mx@proton.me)
 
-Project link: [Rick&Morty - Demo]([https://astro-blog-tan-nine.vercel.app/](https://rick-and-morty-context.netlify.app/))
+Project link: [Rick&Morty - Demo](https://rick-and-morty-context.netlify.app/)
